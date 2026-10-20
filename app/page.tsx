@@ -1,11 +1,9 @@
 export default function Home () {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      Pershendetje nga
-      ANDI NEZIRI
-      Erion Selimi
-      Arbr Demiri
-      Berin Ramadani
+    <main className="flex min-h-screen items-center justify-center bg-gray-900">
+      <h1 className="text-5xl font-bold text-white">
+        Erion Selimi
+        </h1>
     </main>
   );
 }
