@@ -4,6 +4,7 @@ export default function Home () {
       ANDI NEZIRI
       Erion Selimi
       Arbr Demiri
+      Berin Ramadani
     </main>
   );
 }
